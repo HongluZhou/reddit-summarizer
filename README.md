@@ -3,10 +3,10 @@
 
 ### TODO notes
 - 2019-04-17   
-  - [] Check Darpa dataset, downlownd and put them in one place. Identify which ones to use and evaluate the possibility of using and potential issues.
-  - [] Check other public Reddit dataset. 
-  - [] Read tutorials.    
-  - [] Read papers and tutorials regarding summarization task evaluation metrics.
+  - [ ] Check Darpa dataset, downlownd and put them in one place. Identify which ones to use and evaluate the possibility of using and potential issues.
+  - [ ] Check other public Reddit dataset. 
+  - [ ] Read tutorials.    
+  - [ ] Read papers and tutorials regarding summarization task evaluation metrics.
     
 ### Resources
 - [google folder](https://drive.google.com/drive/folders/1X9Z8pT9eW3bUdGQT7OO14Oqd5a2_kjgU?usp=sharing)  
