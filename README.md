@@ -14,9 +14,11 @@
 - [online reddit summarizer bot](https://www.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/)   
 - [text compactor tool](https://www.textcompactor.com/)    
     
-### Tutorials
+### Tutorials & Tools
 - [Encoder-Decoder Models for Text Summarization in Keras](https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/)    
-- [Text Summarization Using Keras Models](https://hackernoon.com/text-summarization-using-keras-models-366b002408d9)         
+- [Text Summarization Using Keras Models](https://hackernoon.com/text-summarization-using-keras-models-366b002408d9)     
+- [tensor2tensor](https://github.com/tensorflow/tensor2tensor)    
+- [fairseq](https://github.com/pytorch/fairseq)    
         
 ### Papers
 - To be added.   
