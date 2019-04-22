@@ -19,6 +19,8 @@
 - [Text Summarization Using Keras Models](https://hackernoon.com/text-summarization-using-keras-models-366b002408d9)     
 - [tensor2tensor](https://github.com/tensorflow/tensor2tensor)    
 - [fairseq](https://github.com/pytorch/fairseq)    
+- [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)   
+- [Keras exmaple code: English to French](https://github.com/keras-team/keras/blob/master/examples/lstm_seq2seq.py)    
         
 ### Papers
 - To be added.   
