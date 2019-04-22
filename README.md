@@ -15,7 +15,7 @@
 - [text compactor tool](https://www.textcompactor.com/)    
     
 ### Tutorials & Tools
-- [Encoder-Decoder Models for Text Summarization in Keras](https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/)    
+- [Encoder-Decoder Models for Text Summarization in Keras](https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/), [code](https://github.com/chen0040/keras-text-summarization).    
 - [Text Summarization Using Keras Models](https://hackernoon.com/text-summarization-using-keras-models-366b002408d9)     
 - [tensor2tensor](https://github.com/tensorflow/tensor2tensor)    
 - [fairseq](https://github.com/pytorch/fairseq)    
