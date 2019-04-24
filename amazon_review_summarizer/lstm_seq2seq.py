@@ -169,6 +169,10 @@ model.save('/media/data1/summarizer/tutorial/model_final.h5')
 # Output will be the next target token
 # 3) Repeat with the current target token and current states
 
+"""
+Need to get the weights from each model layers explicitly right? Check https://keras.io/examples/lstm_seq2seq_restore/
+"""
+
 # Define sampling models
 encoder_model = Model(encoder_inputs, encoder_states)
 
