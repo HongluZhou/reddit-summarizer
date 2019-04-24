@@ -1,6 +1,8 @@
 # reddit-summarizer
-2019 spring NLP course project
-
+Rutgers 2019 spring NLP course project
+  
+## Final Presentation: google sides [link](https://docs.google.com/presentation/d/1G_7menqhi7S85ShZDGjWppuFmY8TWyW9-CWyI5zE1ts/edit)   
+    
 ### TODO notes
 - 2019-04-17   
   - [x] Check Darpa dataset, downlownd and put them in one place. Identify which ones to use and evaluate the possibility of using and potential issues.
