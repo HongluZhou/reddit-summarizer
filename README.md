@@ -5,7 +5,7 @@
 - 2019-04-17   
   - [x] Check Darpa dataset, downlownd and put them in one place. Identify which ones to use and evaluate the possibility of using and potential issues.
       - Darpa dataset and its schema have been uploaded in google folder. Use the Cyber one first. "selftext_m" key is for text, and "title_m" key is for title.    
-  - [ ] Check other public Reddit dataset. 
+  - [x] Check other public Reddit dataset. 
   - [ ] Read tutorials.    
   - [ ] Read papers and tutorials regarding summarization task evaluation metrics.
     
