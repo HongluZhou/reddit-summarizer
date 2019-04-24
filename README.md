@@ -7,9 +7,9 @@ Rutgers 2019 spring NLP course project
 - 2019-04-17   
   - [x] Check Darpa dataset, downlownd and put them in one place. Identify which ones to use and evaluate the possibility of using and potential issues.
       - Darpa dataset and its schema have been uploaded in google folder. Use the Cyber one first. "selftext_m" key is for text, and "title_m" key is for title.    
-  - [x] Check other public Reddit dataset. 
-  - [ ] Read tutorials.    
-  - [ ] Read papers and tutorials regarding summarization task evaluation metrics.
+  - [x] Check other public Reddit dataset. **Will tldr dataset be more suitable?**
+  - [x] Read tutorials.    
+  - [x] Read papers and tutorials regarding summarization task evaluation metrics.
     
 ### Resources
 - [google folder](https://drive.google.com/drive/folders/1X9Z8pT9eW3bUdGQT7OO14Oqd5a2_kjgU?usp=sharing)  
