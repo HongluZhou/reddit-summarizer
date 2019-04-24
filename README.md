@@ -4,13 +4,15 @@ Rutgers 2019 spring NLP course project
 ## Final Presentation: google sides [link](https://docs.google.com/presentation/d/1G_7menqhi7S85ShZDGjWppuFmY8TWyW9-CWyI5zE1ts/edit)   
     
 ### TODO notes
-- 2019-04-17   
+- 2019-04-24   
   - [x] Check Darpa dataset, downlownd and put them in one place. Identify which ones to use and evaluate the possibility of using and potential issues.
       - Darpa dataset and its schema have been uploaded in google folder. Use the Cyber one first. "selftext_m" key is for text, and "title_m" key is for title.    
   - [x] Check other public Reddit dataset. **Will tldr dataset be more suitable?**
   - [x] Read tutorials.    
-  - [x] Read papers and tutorials regarding summarization task evaluation metrics.
-    
+  - [x] Read papers and tutorials regarding summarization task evaluation metrics.   
+  - [ ] Currently training a character-level model on amazon food review data, let's see the performance to further decide on the model.   
+  - [ ] Need more suggestions: model, preprocessing steps.  
+     
 ### Resources
 - [google folder](https://drive.google.com/drive/folders/1X9Z8pT9eW3bUdGQT7OO14Oqd5a2_kjgU?usp=sharing)  
 - [first presentation: Can we summarize Reddit post?](https://drive.google.com/open?id=17K7eExQMPfkpm5kd36QmMrdwFPA1GfAS)   
