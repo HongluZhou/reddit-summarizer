@@ -32,4 +32,9 @@
    
 ### Papers   
 - [Abstractive Summarization of Reddit Posts with Multi-level Memory Networks](https://github.com/ctr4si/MMN). Dataset provided but no implementation.      
-- [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf)
+- [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf)  
+
+### More thinking and future work notes
+- Attention mechanism should help.   
+- Comparison between character-level model and word-level model.    
+- Could we use hidden vector of the model to serve as embedding vector of the text, and further do other tasks like subreddit classification etc?   
