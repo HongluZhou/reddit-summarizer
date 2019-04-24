@@ -33,6 +33,7 @@
 ### Papers   
 - [Abstractive Summarization of Reddit Posts with Multi-level Memory Networks](https://github.com/ctr4si/MMN). Dataset provided but no implementation.      
 - [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf)  
+- [Generating News Headlines with Recurrent Neural Networks](https://arxiv.org/abs/1512.01712)
 
 ### More thinking and future work notes
 - Attention mechanism should help.   
