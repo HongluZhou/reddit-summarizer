@@ -14,7 +14,7 @@
 - [first presentation: Can we summarize Reddit post?](https://drive.google.com/open?id=17K7eExQMPfkpm5kd36QmMrdwFPA1GfAS)   
 - [online reddit summarizer bot](https://www.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/)   
 - [text compactor tool](https://www.textcompactor.com/)    
-- [TL;DR The abstractive summarization challenge](https://www.reddit.com/r/MachineLearning/comments/a6erpw/project_the_tldr_challenge/)
+- [TL;DR The abstractive summarization challenge](https://www.reddit.com/r/MachineLearning/comments/a6erpw/project_the_tldr_challenge/). Good dataset to use! An on-going challenge.
     
 ### Tutorials & Tools
 - [Encoder-Decoder Models for Text Summarization in Keras](https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/), [code](https://github.com/chen0040/keras-text-summarization).    
