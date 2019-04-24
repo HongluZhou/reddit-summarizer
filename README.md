@@ -27,4 +27,4 @@
 - [ROUGE](https://en.wikipedia.org/wiki/ROUGE_(metric))   
    
 ### Papers   
-- To be added.      
+- [Abstractive Summarization of Reddit Posts with Multi-level Memory Networks] (https://github.com/ctr4si/MMN). Dataset provided but no implementation.      
