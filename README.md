@@ -30,6 +30,7 @@ Rutgers 2019 spring NLP course project
 - [fairseq](https://github.com/pytorch/fairseq)    
 - [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)   
 - [Keras exmaple code: English to French](https://github.com/keras-team/keras/blob/master/examples/lstm_seq2seq.py)    
+- [ml-notebooks](https://github.com/neonbjb/ml-notebooks/blob/master/keras-seq2seq-with-attention/keras_translate_notebook.ipynb)  
         
 ### Metrics   
 - [ROUGE](https://en.wikipedia.org/wiki/ROUGE_(metric))   
