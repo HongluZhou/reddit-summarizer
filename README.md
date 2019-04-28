@@ -34,7 +34,7 @@ Rutgers 2019 spring NLP course project
         
 ### Metrics   
 - [ROUGE](https://en.wikipedia.org/wiki/ROUGE_(metric)): TLDR challenge uses the F-1 scores accordingly for ROUGE-1, ROUGE-2 and ROUGE-LCS as quantitative evaluation.   
-- Usually, a qualitative evaluation will be performed through crowdsourcing. Human annotators will rate each candidate summary according to five linguistic qualities as suggested by the [DUC guidelines](https://duc.nist.gov/pubs/2006papers/duc2006.pdf).  
+- Usually, a qualitative evaluation will be performed through crowdsourcing. Human annotators will rate each candidate summary according to five linguistic qualities as suggested by the [DUC guidelines](https://duc.nist.gov/pubs/2006papers/duc2006.pdf). - [Re-evaluating Automatic Metrics for Image Captioning](https://aclweb.org/anthology/E17-1019): This paper has good explanation for BLEU, METEOR, ROUGE, and CIDEr.     
    
 ### Papers   
 - [Abstractive Summarization of Reddit Posts with Multi-level Memory Networks](https://github.com/ctr4si/MMN). Dataset provided but no implementation.      
