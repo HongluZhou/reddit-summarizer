@@ -33,7 +33,8 @@ Rutgers 2019 spring NLP course project
 - [ml-notebooks](https://github.com/neonbjb/ml-notebooks/blob/master/keras-seq2seq-with-attention/keras_translate_notebook.ipynb)  
         
 ### Metrics   
-- [ROUGE](https://en.wikipedia.org/wiki/ROUGE_(metric)): TLDR challenge uses the F-1 scores accordingly for ROUGE-1, ROUGE-2 and ROUGE-LCS as evaluation.   
+- [ROUGE](https://en.wikipedia.org/wiki/ROUGE_(metric)): TLDR challenge uses the F-1 scores accordingly for ROUGE-1, ROUGE-2 and ROUGE-LCS as quantitative evaluation.   
+- Usually, a qualitative evaluation will be performed through crowdsourcing. Human annotators will rate each candidate summary according to five linguistic qualities as suggested by the [DUC guidelines](https://duc.nist.gov/pubs/2006papers/duc2006.pdf).  
    
 ### Papers   
 - [Abstractive Summarization of Reddit Posts with Multi-level Memory Networks](https://github.com/ctr4si/MMN). Dataset provided but no implementation.      
