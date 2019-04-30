@@ -34,6 +34,7 @@ Rutgers 2019 spring NLP course project
 - [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf). Proposed Seq2Seq.
 - [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685).  
 - [An Improved Phrase-based Approach to Annotating and Summarizing Student Course Responses](http://aclweb.org/anthology/C16-1006)  
+- [Collection of related papers and implementation](https://tldr.webis.de/tldr-web/soa.html).
    
 ### More thinking and future work notes
 - Attention mechanism helps.   
