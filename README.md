@@ -28,7 +28,7 @@ Rutgers 2019 spring NLP course project
 - Usually, a qualitative evaluation will be performed through crowdsourcing. Human annotators will rate each candidate summary according to five linguistic qualities as suggested by the [DUC guidelines](https://duc.nist.gov/pubs/2006papers/duc2006.pdf). - [Re-evaluating Automatic Metrics for Image Captioning](https://aclweb.org/anthology/E17-1019): This paper has good explanation for BLEU, METEOR, ROUGE, and CIDEr.     
    
 ### Papers   
-- [Collection of related papers and implementation](https://tldr.webis.de/tldr-web/soa.html).
+- [A Collection of state-of-art related work (since 2015) and their implementations](https://tldr.webis.de/tldr-web/soa.html).
 - [Abstractive Summarization of Reddit Posts with Multi-level Memory Networks](https://github.com/ctr4si/MMN). Dataset provided but no implementation.      
 - [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf)  
 - [Generating News Headlines with Recurrent Neural Networks](https://arxiv.org/abs/1512.01712)    
