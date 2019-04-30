@@ -1,22 +1,10 @@
 # reddit-summarizer
 Rutgers 2019 spring NLP course project
   
-## Final Presentation: google sides [link](https://docs.google.com/presentation/d/1G_7menqhi7S85ShZDGjWppuFmY8TWyW9-CWyI5zE1ts/edit)   
+## Final Presentation: google sides [link](https://docs.google.com/presentation/d/1G_7menqhi7S85ShZDGjWppuFmY8TWyW9-CWyI5zE1ts/edit?usp=sharing)   
     
-### TODO notes
-- 2019-04-24   
-  - [x] Check Darpa dataset, downlownd and put them in one place. Identify which ones to use and evaluate the possibility of using and potential issues.
-      - Darpa dataset and its schema have been uploaded in google folder. Use the Cyber one first. "selftext_m" key is for text, and "title_m" key is for title.    
-  - [x] Check other public Reddit dataset. **Will tldr dataset be more suitable?**
-  - [x] Read tutorials.    
-  - [x] Read papers and tutorials regarding summarization task evaluation metrics.   
-  - [ ] Currently training a character-level model on amazon food review data, let's see the performance to further decide on the model.   
-  - [ ] Need more suggestions: model, preprocessing steps.  
-     
-### Resources
-- [google folder](https://drive.google.com/drive/folders/1X9Z8pT9eW3bUdGQT7OO14Oqd5a2_kjgU?usp=sharing)  
-- [first presentation: Can we summarize Reddit post?](https://drive.google.com/open?id=17K7eExQMPfkpm5kd36QmMrdwFPA1GfAS)   
-- [online reddit summarizer bot](https://www.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/)   
+### Resources  
+- [first presentation: Can we summarize Reddit post?](https://docs.google.com/presentation/d/1z4J6HMYFLQaS3g8zjvqCV3cazFWsUV9EiI55oUluVKE/edit?usp=sharing)   
 - [text compactor tool](https://www.textcompactor.com/)    
 - [TL;DR The abstractive summarization challenge](https://www.reddit.com/r/MachineLearning/comments/a6erpw/project_the_tldr_challenge/). Good dataset to use! An on-going challenge.   
 - [What is the state of text summarization research?](https://www.reddit.com/r/LanguageTechnology/comments/94m0kw/what_is_the_state_of_text_summarization_research/).  
@@ -43,9 +31,12 @@ Rutgers 2019 spring NLP course project
 - [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf)  
 - [Generating News Headlines with Recurrent Neural Networks](https://arxiv.org/abs/1512.01712)    
 - [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf). Proposed Seq2Seq.
-- [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685) .  
-
+- [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685).  
+- [An Improved Phrase-based Approach to Annotating and Summarizing Student Course Responses](http://aclweb.org/anthology/C16-1006)  
+   
 ### More thinking and future work notes
-- Attention mechanism should help.   
+- Attention mechanism helps.   
 - Comparison between character-level model and word-level model.    
-- Could we use hidden vector of the model to serve as embedding vector of the text, and further do other tasks like subreddit classification etc?   
+- Could we use hidden vector of the model to serve as embedding vector of the text, and further do other tasks like subreddit classification etc?    
+- LSTM methods require lots of training data. 
+- Should compare to a baseline model that is not so statistically intensive, like latent dirichlet allocation, as well as using a generic classification method like BERT that's not tuned to the particular text that you are working with.  
