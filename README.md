@@ -5,6 +5,7 @@ Rutgers 2019 spring NLP course project
     
 ### Resources  
 - [first presentation: Can we summarize Reddit post?](https://docs.google.com/presentation/d/1z4J6HMYFLQaS3g8zjvqCV3cazFWsUV9EiI55oUluVKE/edit?usp=sharing)   
+- [Autotldr](https://www.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/) is a bot that uses [SMMRY](https://smmry.com/about) to automatically summarize long reddit submission.   
 - [text compactor tool](https://www.textcompactor.com/)    
 - [TL;DR The abstractive summarization challenge](https://www.reddit.com/r/MachineLearning/comments/a6erpw/project_the_tldr_challenge/). Good dataset to use! An on-going challenge.   
 - [What is the state of text summarization research?](https://www.reddit.com/r/LanguageTechnology/comments/94m0kw/what_is_the_state_of_text_summarization_research/).  
