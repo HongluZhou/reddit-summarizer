@@ -1,5 +1,8 @@
 # reddit-summarizer
-Rutgers 2019 spring NLP course project
+Rutgers CS 2019 spring NLP course project
+<!---
+Google Folder: https://drive.google.com/drive/folders/1X9Z8pT9eW3bUdGQT7OO14Oqd5a2_kjgU?usp=sharing
+--->
   
 ## Final Presentation: google sides [link](https://docs.google.com/presentation/d/1G_7menqhi7S85ShZDGjWppuFmY8TWyW9-CWyI5zE1ts/edit?usp=sharing)   
     
