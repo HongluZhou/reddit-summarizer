@@ -15,6 +15,8 @@ Google Folder: https://drive.google.com/drive/folders/1X9Z8pT9eW3bUdGQT7OO14Oqd5
 - [Datasets for text document summarization?](https://www.reddit.com/r/MachineLearning/comments/48wqey/datasets_for_text_document_summarization/)   
 - [A Quick Introduction to Text Summarization in Machine Learning](https://towardsdatascience.com/a-quick-introduction-to-text-summarization-in-machine-learning-3d27ccf18a9f). Described the types of techniques.    
 - [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/) .   
+- [Attention in Long Short-Term Memory Recurrent Neural Networks](https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/)   
+- [A Brief Overview of Attention Mechanism](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)    
 
 ### Tutorials & Tools
 - [Encoder-Decoder Models for Text Summarization in Keras](https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/), [code](https://github.com/chen0040/keras-text-summarization).    
