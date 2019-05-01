@@ -31,6 +31,7 @@ Google Folder: https://drive.google.com/drive/folders/1X9Z8pT9eW3bUdGQT7OO14Oqd5
 - [ml-notebooks](https://github.com/neonbjb/ml-notebooks/blob/master/keras-seq2seq-with-attention/keras_translate_notebook.ipynb)  
 - [Keras BERT](https://pypi.org/project/keras-bert/)   
 - [keras-seq2seq-with-attention](https://github.com/neonbjb/ml-notebooks/tree/master/keras-seq2seq-with-attention) Note - Tensorflow 1.13 and greater versions currently have problems with the code.  
+- Regarding hidden state(carry), cell state(memory): Hidden state is overall state of what we have seen so far. Cell state is selective memory of the past. The hidden state (h) carries the information about what an RNN cell has seen over the time and supply it to the present time such that a loss function is not just dependent upon the data it is seeing in this time instant, but also, data it has seen historically. [link](https://www.quora.com/How-is-the-hidden-state-h-different-from-the-memory-c-in-an-LSTM-cell).   
         
 ### Metrics   
 - [ROUGE](https://en.wikipedia.org/wiki/ROUGE_(metric)): TLDR challenge uses the F-1 scores accordingly for ROUGE-1, ROUGE-2 and ROUGE-LCS as quantitative evaluation.   
