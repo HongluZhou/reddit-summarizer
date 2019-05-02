@@ -23,7 +23,7 @@ Google Folder: https://drive.google.com/drive/folders/1X9Z8pT9eW3bUdGQT7OO14Oqd5
 - [Keras Attention Mechanism](https://github.com/philipperemy/keras-attention-mechanism)   
 - [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)   
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)   
-- [Youtube video: C5W3L08 Attention Model](https://www.youtube.com/watch?v=quoGRI-1l0A), very useful attention mechanism tutorial.  
+- [Youtube video: C5W3L08 Attention Model](https://www.youtube.com/watch?v=quoGRI-1l0A), short but very useful attention mechanism tutorial.  
 
 ### Tutorials & Tools
 - [Encoder-Decoder Models for Text Summarization in Keras](https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/), [code](https://github.com/chen0040/keras-text-summarization).    
