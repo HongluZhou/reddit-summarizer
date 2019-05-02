@@ -18,7 +18,7 @@ Google Folder: https://drive.google.com/drive/folders/1X9Z8pT9eW3bUdGQT7OO14Oqd5
 - [Attention in Long Short-Term Memory Recurrent Neural Networks](https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/)   
 - [A Brief Overview of Attention Mechanism](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129). It has good equations.    
 - [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html). It has good equations.  
-- [DeepInf: Social Influence Prediction with Deep Learning](A very good paper to understand attension mechanism).  
+- [DeepInf: Social Influence Prediction with Deep Learning](https://arxiv.org/pdf/1807.05560.pdf), A very good paper to understand attension mechanism).  
 - [Graph Attension Networks](https://arxiv.org/pdf/1807.05560.pdf)   
 - [Keras Attention Mechanism](https://github.com/philipperemy/keras-attention-mechanism)   
 - [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)   
