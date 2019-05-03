@@ -26,6 +26,7 @@ Google Folder: https://drive.google.com/drive/folders/1X9Z8pT9eW3bUdGQT7OO14Oqd5
 - [Youtube video: C5W3L08 Attention Model](https://www.youtube.com/watch?v=quoGRI-1l0A), short but very useful attention mechanism tutorial.  
 - [How to Develop an Encoder-Decoder Model with Attention for Sequence-to-Sequence Prediction in Keras](https://machinelearningmastery.com/encoder-decoder-attention-sequence-to-sequence-prediction-keras/)   
 - [attention mechanism](https://blog.heuritech.com/2016/01/20/attention-mechanism/), a blog.  
+- [Another keras attention implementation](https://github.com/thushv89/attention_keras) with [blog](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39).   
 
 ### Tutorials & Tools
 - [Encoder-Decoder Models for Text Summarization in Keras](https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/), [code](https://github.com/chen0040/keras-text-summarization).    
