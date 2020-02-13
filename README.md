@@ -29,6 +29,13 @@ Google Folder: https://drive.google.com/drive/folders/1X9Z8pT9eW3bUdGQT7OO14Oqd5
 - [Another keras attention implementation](https://github.com/thushv89/attention_keras) with [blog](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39).   
 - [Attention Mechanisms in Recurrent Neural Networks (RNNs) - IGGG](https://www.youtube.com/watch?v=QuvRWevJMZ4), a one-hour video.
 - [What is a Transformer?](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) 
+- [Transformer — Attention is all you need](https://towardsdatascience.com/transformer-attention-is-all-you-need-1e455701fdd9) 
+- [Paper-with-code: Attention Is All You Need](https://paperswithcode.com/paper/attention-is-all-you-need)
+- [Codes for Transformer, BERT, etc.](https://github.com/graykode/nlp-tutorial)
+- [Attention Is All You Need — Transformer](https://medium.com/towards-artificial-intelligence/attention-is-all-you-need-transformer-4c34aa78308f)
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)  
+
   
 
 ### Tutorials & Tools
